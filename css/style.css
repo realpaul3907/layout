@@ -1,0 +1,84 @@
+
+.box0{
+
+min-height: 80px;
+background-color: orange;
+margin: 20px 0;
+cursor: pointer;
+
+}
+
+.box{
+
+	min-height: 80px;
+	background-color: yellow;
+	margin: 20px 0;
+	cursor: pointer;
+}
+
+
+.box1{
+
+min-height: 80px;
+background-color: blue;
+margin: 20px 0;
+cursor: pointer;
+
+}
+
+
+.box2{
+
+min-height: 80px;
+background-color: green;
+margin: 20px 0;
+cursor: pointer;
+
+}
+
+.box3{
+
+min-height: 80px;
+background-color: red;
+margin: 20px 0;
+cursor: pointer;
+
+}
+
+
+.box4{
+
+min-height: 80px;
+background-color: pink;
+margin: 20px 0;
+cursor: pointer;
+
+}
+
+
+.box5{
+
+min-height: 80px;
+background-color: violet;
+margin: 20px 0;
+cursor: pointer;
+
+}
+
+.box6{
+
+min-height: 80px;
+background-color: purple;
+margin: 20px 0;
+cursor: pointer;
+
+}
+
+.box7{
+
+min-height: 80px;
+background-color: purple;
+margin: 20px 0;
+cursor: black;
+
+}
